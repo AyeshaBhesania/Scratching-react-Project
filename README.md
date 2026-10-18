@@ -86,6 +86,8 @@ This repository contains practical tasks completed while learning React.js and N
 - Applied CSS styling to improve the user interface.
 
 **Concepts Covered:** Next.js App Router, pages, routing, components, TypeScript, props, and CSS.
+
+
 Video Explaination:
 https://drive.google.com/file/d/1vlop2ZZOZCxuwuRiF2yH1-ypYZ5j5gkh/view?usp=sharing
 
